@@ -9,4 +9,6 @@ Sie entschließen sich:
 
 [Ins Boot zurückzukehren](../ruderboot.md)
 
+["Einfach schwimmen"]
+
 [Trotzdem in den Eingang hineinzutauchen](Hoehle/hoehle.md)
